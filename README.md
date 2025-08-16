@@ -2,10 +2,7 @@
 
 This Power BI dashboard transforms HR data into clear, actionable insights – without the headache of endless Excel filters.
 It provides a 360° view of the workforce, helping HR teams make informed decisions in seconds instead of hours.
-
-
-👥 Workforce KPIs – Track total employees, current employees, attrition, and average age.  
-🎓 Education Insights – Breakdown of employees by education level.  
+ 
 
 ## 🚀 Key Features:
 👥 Workforce KPIs – Track total employees, current employees, attrition, and average age.  
