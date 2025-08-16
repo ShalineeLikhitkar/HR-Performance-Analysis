@@ -6,7 +6,9 @@ It provides a 360° view of the workforce, helping HR teams make informed decisi
 
 ## 🚀 Key Features:
 👥 Workforce KPIs – Track total employees, current employees, attrition, and average age.
+
 🎓 Education Insights – Breakdown of employees by education level.
+
 💼 Job Role Analytics – Visuals for headcount, attrition, and training times per role.
 💍 Demographic Trends – Employee distribution by marital status, age, and gender.
 💰 Income Analysis – Monthly income insights by department and job level.
